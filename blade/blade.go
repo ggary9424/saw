@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/TylerBrock/colorjson"
-	"github.com/TylerBrock/saw/config"
+	"saw/config"
 	"github.com/aws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/aws/credentials/stscreds"
 	"github.com/aws/aws-sdk-go/aws/session"

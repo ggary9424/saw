@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/TylerBrock/saw/config"
+	"saw/config"
 	"github.com/spf13/cobra"
 )
 
